@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "sf-regular";
+  src: local("Poppins"),
+    url("/src/assets/fonts/SF-Pro-Text-Regular.woff") format("woff");
+}
+body {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: "sf-regular";
+}
+#root {
+  font-family: "sf-regular";
+}
